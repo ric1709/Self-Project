@@ -1,0 +1,21 @@
+.main-card{
+    display: flex;
+
+}
+
+.user-img{
+    width: 100px;
+    height: 100px;
+}
+.Card{
+    border: 2px solid red;
+    padding: 30px;
+    margin: 25px;
+    background-color: seagreen;
+}
+.user{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+    letter-spacing: 1px;
+}
